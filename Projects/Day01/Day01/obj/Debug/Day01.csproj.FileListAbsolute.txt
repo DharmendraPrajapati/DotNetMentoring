@@ -1,0 +1,6 @@
+c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\Day01\Day01\bin\Debug\Day01.exe.config
+c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\Day01\Day01\bin\Debug\Day01.exe
+c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\Day01\Day01\bin\Debug\Day01.pdb
+c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\Day01\Day01\obj\Debug\Day01.csprojResolveAssemblyReference.cache
+c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\Day01\Day01\obj\Debug\Day01.exe
+c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\Day01\Day01\obj\Debug\Day01.pdb

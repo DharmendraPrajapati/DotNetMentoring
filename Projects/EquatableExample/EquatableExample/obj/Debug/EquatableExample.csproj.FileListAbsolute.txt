@@ -1,6 +1,0 @@
-c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\EquatableExample\EquatableExample\bin\Debug\EquatableExample.exe.config
-c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\EquatableExample\EquatableExample\bin\Debug\EquatableExample.exe
-c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\EquatableExample\EquatableExample\bin\Debug\EquatableExample.pdb
-c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\EquatableExample\EquatableExample\obj\Debug\EquatableExample.csprojResolveAssemblyReference.cache
-c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\EquatableExample\EquatableExample\obj\Debug\EquatableExample.exe
-c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\EquatableExample\EquatableExample\obj\Debug\EquatableExample.pdb

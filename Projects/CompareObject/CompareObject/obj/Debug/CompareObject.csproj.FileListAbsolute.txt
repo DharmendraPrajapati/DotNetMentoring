@@ -1,6 +1,0 @@
-c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\CompareObject\CompareObject\bin\Debug\CompareObject.exe.config
-c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\CompareObject\CompareObject\bin\Debug\CompareObject.exe
-c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\CompareObject\CompareObject\bin\Debug\CompareObject.pdb
-c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\CompareObject\CompareObject\obj\Debug\CompareObject.csprojResolveAssemblyReference.cache
-c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\CompareObject\CompareObject\obj\Debug\CompareObject.exe
-c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\CompareObject\CompareObject\obj\Debug\CompareObject.pdb

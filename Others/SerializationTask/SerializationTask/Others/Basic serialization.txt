@@ -1,0 +1,5 @@
+Based on the content of the books.xml file, describe the structure of the Catalog and Book classes (use the C # approach to naming classes and properties in the form of CamelCase and PascalCase). Pay attention to the fact that in Code:
+- Genre should be represented in the form of an enumeration
+- It should be possible to work with dates as full-fledged DateTime structures. 
+- Get deserialized your classes for books.xml
+- Serialize your classes into JSON object

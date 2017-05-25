@@ -1,0 +1,6 @@
+﻿
+Your team creates an application that works with modules supplied by third-party programming teams. 
+In order to secure your application, you decided to run these modules in a separate domain. 
+Develop a library for running plug-ins in a separate domain, based on the AppDomain API. 
+The library should be able to load the selected plug-in into a separate domain and return the entry point to it (as an object / interface reference)
+manually unload the plug-in (and domain)

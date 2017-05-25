@@ -1,0 +1,87 @@
+1.Create an example of adding your handler to an event class using reflection.
+2. Create with the help of reflection an instance of the class List T. Type T - is set dynamically. 
+Fill the list with 5 copies of type T (if possible).
+
+
+
+/*
+
+var t = typeof(GenericReflectionList<>);
+
+            // if(t.IsGenericType)
+            //Console.WriteLine(t.IsGenericTypeDefinition);
+            var prop = t.GetProperties();
+            var typeArg = t.GetGenericArguments();
+            foreach (var type in typeArg)
+            {
+               
+                Console.WriteLine(type.ToString());
+            }
+            foreach(var propertyInfo in prop)
+            {
+                Console.WriteLine(propertyInfo.Name);
+            }
+
+            var propertyArg = typeof(int);
+            var c = t.MakeGenericType(propertyArg);
+            var instance = Activator.CreateInstance(c);
+            var currentType = instance.GetType();
+
+            foreach(var propertyInfo in currentType.GetProperties())
+            {
+                Console.WriteLine(propertyInfo);
+            }
+
+            currentType.GetProperty("ReflectionList").SetValue(instance,new List<int>() {1,2},null);
+
+            var noList = (List<int>)currentType.GetProperty("ReflectionList").GetValue(instance);
+
+            foreach(var no in noList)
+            {
+                Console.WriteLine(no);
+            }
+
+            Console.WriteLine(currentType);
+
+
+
+
+
+            //Type[] typeArgs = {typeof(int), typeof(List<string>)};
+            //foreach(var type in typeArgs)
+            //{
+            //    Console.WriteLine(type.ToString());
+            //}
+            //var constructed = t.MakeGenericType(typeArgs);
+            //var o = Activator.CreateInstance(constructed);
+            //Console.WriteLine(o.GetType());
+            //var someType = o.GetType();
+            //foreach(var propertyInfo in someType.GetProperties())
+            //{
+            //    Console.WriteLine(propertyInfo);
+            //}
+            //someType.GetProperty("No").SetValue(o, 1009, null);
+            //someType.GetProperty("Name").SetValue(o, new List<string> {"One", "Two"}, null);
+            //Console.WriteLine(someType.GetProperty("No").GetValue(o));
+            //var lst = (List<string>)someType.GetProperty("Name").GetValue(o);
+            //foreach(var s in lst)
+            //{
+            //    Console.WriteLine(s);
+            //}
+            //Console.WriteLine(someType.GetProperty("Name").GetValue(o));
+
+            //foreach (var propertyInfo in prop)
+            //{
+            //    Console.WriteLine(
+            //    propertyInfo.ToString());
+
+            //}
+
+            //var instance = Activator.CreateInstance(t1);
+            //var someTyp = Type.GetType("ReflectionTask.GenericPerson<T,TU>");
+
+            // Console.WriteLine(someTyp);
+
+            //ValueType instance = Activator.CreateInstance<>()
+
+			*/

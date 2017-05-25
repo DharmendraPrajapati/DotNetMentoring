@@ -1,0 +1,56 @@
+﻿  //XmlReader xmlReader = XmlReader.Create(@"D:\books.xml");
+
+            //while (xmlReader.Read())
+            //{
+            //    if (xmlReader.NodeType == XmlNodeType.XmlDeclaration)
+            //    {
+            //    }
+
+            //    if ((xmlReader.NodeType == XmlNodeType.Element) && (xmlReader.Name == "catalog"))
+            //    {
+            //    }
+
+            //    if ((xmlReader.NodeType == XmlNodeType.Element) && (xmlReader.Name == "book"))
+            //    {
+            //        Book b = new Book();
+
+            //        if (xmlReader.HasAttributes)
+            //        {
+            //            var attr = xmlReader.GetAttribute(0);
+            //        }
+            //    }
+            //}
+
+			 //Catalog catalog = new Catalog()
+            //{
+            //    CatalogDate = DateTime.Now,
+            //    Books = new List<Book>
+            //    {
+            //        new Book
+            //        {
+            //            Id = "bk101",
+            //            ISBN = "0-596-00103-7",
+            //            Author = "Some Author",
+            //            Genere = Genere.Computer,
+            //            Description =
+            //                "COM and .NET Component Services provides both traditional COM programmers and new .NET component developers with the information they need to begin developing applications that take full advantage of COM + services.This book focuses on COM + services,including support for transactions, queued components, events, concurrency management, and security",
+            //            PublishDate = Convert.ToDateTime("2001-09-01", new CultureInfo("ja-JP")),
+            //            Publisher = "O'Reilly",
+            //            RegistrationDate = Convert.ToDateTime("2016-01-05"),
+            //            Title = "COM and .NET Component Services"
+            //        },
+            //        new Book
+            //        {
+            //            Id = "bk102",
+            //            ISBN = "0-596-00103-7",
+            //            Author = "Another Author",
+            //            Genere = Genere.Fantasy,
+            //            Description =
+            //                "COM and .NET Component Services provides both traditional COM programmers and new .NET component developers with the information they need to begin developing applications that take full advantage of COM + services.This book focuses on COM + services,including support for transactions, queued components, events, concurrency management, and security",
+            //            PublishDate = Convert.ToDateTime("2001-09-01", new CultureInfo("ja-JP")),
+            //            Publisher = "O'Reilly",
+            //            RegistrationDate = Convert.ToDateTime("2016-01-05"),
+            //            Title = "COM and .NET Component Services"
+            //        }
+            //    }
+            //};

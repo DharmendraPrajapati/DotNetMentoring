@@ -1,0 +1,7 @@
+﻿select top 10 CM.* from USNAPWPDB20.TRASAR3.DBO.performance_fact pf
+join USNAPWPDB20.TRASAR3.DBO.ControllerMaster CM ON CM.COntrollerid = pf.controllerid
+            and CM.status = 1
+where parameterid = 8419 
+
+
+select top 10 * from facilityMaster

@@ -1,0 +1,5 @@
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\AppDomainTask\SupplierLibrary\bin\Debug\SupplierLibrary.dll
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\AppDomainTask\SupplierLibrary\bin\Debug\SupplierLibrary.pdb
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\AppDomainTask\SupplierLibrary\obj\Debug\SupplierLibrary.dll
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\AppDomainTask\SupplierLibrary\obj\Debug\SupplierLibrary.pdb
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\AppDomainTask\SupplierLibrary\obj\Debug\SupplierLibrary.csprojResolveAssemblyReference.cache

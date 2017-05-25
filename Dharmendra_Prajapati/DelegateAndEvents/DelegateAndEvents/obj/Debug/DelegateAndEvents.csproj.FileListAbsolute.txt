@@ -1,0 +1,2 @@
+D:\MyProject_Repos\C# Training\india_q2_mentoring\Dharmendra_Prajapati\DelegateAndEvents\DelegateAndEvents\bin\Debug\DelegateAndEvents.exe.config
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\Dharmendra_Prajapati\DelegateAndEvents\DelegateAndEvents\bin\Debug\DelegateAndEvents.exe.config

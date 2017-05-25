@@ -1,0 +1,12 @@
+c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\DisposableExample\DisposableExample\bin\Debug\DisposableExample.exe.config
+c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\DisposableExample\DisposableExample\bin\Debug\DisposableExample.exe
+c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\DisposableExample\DisposableExample\bin\Debug\DisposableExample.pdb
+c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\DisposableExample\DisposableExample\obj\Debug\DisposableExample.csprojResolveAssemblyReference.cache
+c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\DisposableExample\DisposableExample\obj\Debug\DisposableExample.exe
+c:\users\dharmendra_prajapati\documents\visual studio 2015\Projects\DisposableExample\DisposableExample\obj\Debug\DisposableExample.pdb
+D:\MentoringProgram\Projects\DisposableExample\DisposableExample\bin\Debug\DisposableExample.exe.config
+D:\MentoringProgram\Projects\DisposableExample\DisposableExample\obj\Debug\DisposableExample.exe
+D:\MentoringProgram\Projects\DisposableExample\DisposableExample\obj\Debug\DisposableExample.pdb
+D:\MentoringProgram\Projects\DisposableExample\DisposableExample\bin\Debug\DisposableExample.exe
+D:\MentoringProgram\Projects\DisposableExample\DisposableExample\bin\Debug\DisposableExample.pdb
+D:\MentoringProgram\Projects\DisposableExample\DisposableExample\obj\Debug\DisposableExample.csprojResolveAssemblyReference.cache

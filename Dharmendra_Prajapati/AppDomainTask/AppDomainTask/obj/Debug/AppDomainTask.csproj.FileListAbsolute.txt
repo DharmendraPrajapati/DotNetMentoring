@@ -1,0 +1,8 @@
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\AppDomainTask\AppDomainTask\bin\Debug\AppDomainTask.exe.config
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\AppDomainTask\AppDomainTask\bin\Debug\AppDomainTask.exe
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\AppDomainTask\AppDomainTask\bin\Debug\AppDomainTask.pdb
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\AppDomainTask\AppDomainTask\obj\Debug\AppDomainTask.csprojResolveAssemblyReference.cache
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\AppDomainTask\AppDomainTask\obj\Debug\AppDomainTask.exe
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\AppDomainTask\AppDomainTask\obj\Debug\AppDomainTask.pdb
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\AppDomainTask\AppDomainTask\bin\Debug\SupplierLibrary.dll
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\AppDomainTask\AppDomainTask\bin\Debug\SupplierLibrary.pdb

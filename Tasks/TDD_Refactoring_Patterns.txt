@@ -1,0 +1,38 @@
+1. [Test Driven Development]
+
+Task here is to do "String Calculator" kata. In the steps below you can find detailed instruction.
+Working on kata do your best not to look ahead of given task.
+
+Note that the task must be done in Test-Driven-Development fashion.
+
+1. Carefully follow instructions from http://osherove.com/tdd-kata-1/
+2. Carefully follow instructions from http://osherove.com/tdd-kata-2/
+
+When you complete the kata, email me "dmytro_mykhailov@epam.com" with notification that you completed the task
+and code is ready for review.
+
+
+2.[Refactoring]
+
+In this task you should do "Gilded Rose" Kata. 
+Here is link: https://github.com/emilybache/GildedRose-Refactoring-Kata
+
+All requirements for the task you can find in 
+https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt
+
+Please use csharp code as base for the kata:
+https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/master/csharp
+
+Major point here, you must be 100% confident that the changes you made do not break any of existring requirements.
+Completed code should match code style and design principles.
+
+When you done with the task, push the code into repository and notify me in email.
+My email address "dmytro_mykhailov@epam.com".
+
+
+3.[Refactoring]
+
+Merge master branch, find Patterns_Refactoring_UnitTests folder. Inside - PrettyApp
+Your task is refactor this solution; keep your attention on everything: styles, naming, patterns, references between projects, implement missing parts, and delete redundant, and etc.
+Also you have to review unit test inside, regroup, add new, delete useless and etc. 
+Ask Pavan and Vaibhav to review your solution when it will be ready.

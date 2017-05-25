@@ -1,0 +1,14 @@
+[Reflection]  
+
+1.Create an example of adding your handler to an event class using reflection.
+
+2. Create with the help of reflection an instance of the class List T. Type T - is set dynamically. Fill the list with 5 copies of type T (if possible).
+
+[AppDomains]  Your team creates an application that works with modules supplied by third-party programming teams. In order to secure your application, you decided to run these modules in a separate domain.
+Develop a library for running plug-ins in a separate domain, based on the AppDomain API.
+
+The library should be able to:
+
+-  load the selected plug-in into a separate domain and return the entry point to it (as an object / interface reference)
+
+- Manually unload the plug-in (and domain)

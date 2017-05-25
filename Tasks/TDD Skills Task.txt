@@ -1,0 +1,12 @@
+1. [Test Driven Development]
+
+Task here is to do "String Calculator" kata. In the steps below you can find detailed instruction.
+Working on kata do your best not to look ahead of given task.
+
+Note that the task must be done in Test-Driven-Development fashion.
+
+1. Carefully follow instructions from http://osherove.com/tdd-kata-1/
+2. Carefully follow instructions from http://osherove.com/tdd-kata-2/
+
+When you complete the kata, email me "dmytro_mykhailov@epam.com" with notification that you completed the task
+and code is ready for review.

@@ -1,0 +1,8 @@
+﻿2017-05-17 22:17:50,116 ERROR [8] LogTask.Logger_Class.LogHelper.LogError - Cache Does not contain Customer data
+2017-05-17 22:17:50,133 INFO [8] LogTask.Logger_Class.LogHelper.LogInfo - Data Retrieve from Data Service
+2017-05-17 22:17:50,158 ERROR [8] LogTask.Logger_Class.LogHelper.LogError - Cache Does not contain Product data
+2017-05-17 22:17:50,158 INFO [8] LogTask.Logger_Class.LogHelper.LogInfo - Data Retrieve from Data Service
+2017-05-17 22:20:03,708 ERROR [10] LogTask.Logger_Class.LogHelper.LogError - Cache Does not contain Customer data
+2017-05-17 22:20:03,728 INFO [10] LogTask.Logger_Class.LogHelper.LogInfo - Data Retrieve from Data Service
+2017-05-17 22:20:03,761 ERROR [10] LogTask.Logger_Class.LogHelper.LogError - Cache Does not contain Product data
+2017-05-17 22:20:03,762 INFO [10] LogTask.Logger_Class.LogHelper.LogInfo - Data Retrieve from Data Service

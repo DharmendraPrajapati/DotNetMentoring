@@ -1,0 +1,12 @@
+D:\MyProject_Repos\C# Training\india_q2_mentoring\Dharmendra_Prajapati\LogTask\LogTask\bin\Debug\LogTask.exe.config
+D:\MyProject_Repos\C# Training\india_q2_mentoring\Dharmendra_Prajapati\LogTask\LogTask\bin\Debug\LogTask.exe
+D:\MyProject_Repos\C# Training\india_q2_mentoring\Dharmendra_Prajapati\LogTask\LogTask\bin\Debug\LogTask.pdb
+D:\MyProject_Repos\C# Training\india_q2_mentoring\Dharmendra_Prajapati\LogTask\LogTask\bin\Debug\log4net.dll
+D:\MyProject_Repos\C# Training\india_q2_mentoring\Dharmendra_Prajapati\LogTask\LogTask\bin\Debug\log4net.xml
+D:\MyProject_Repos\C# Training\india_q2_mentoring\Dharmendra_Prajapati\LogTask\LogTask\obj\Debug\LogTask.DataAccess_Class.Resource.resources
+D:\MyProject_Repos\C# Training\india_q2_mentoring\Dharmendra_Prajapati\LogTask\LogTask\obj\Debug\LogTask.csproj.GenerateResource.Cache
+D:\MyProject_Repos\C# Training\india_q2_mentoring\Dharmendra_Prajapati\LogTask\LogTask\obj\Debug\LogTask.exe
+D:\MyProject_Repos\C# Training\india_q2_mentoring\Dharmendra_Prajapati\LogTask\LogTask\obj\Debug\LogTask.pdb
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\Dharmendra_Prajapati\LogTask\LogTask\bin\Debug\LogTask.exe.config
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\Dharmendra_Prajapati\LogTask\LogTask\obj\Debug\LogTask.exe
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\Dharmendra_Prajapati\LogTask\LogTask\obj\Debug\LogTask.pdb

@@ -1,0 +1,13 @@
+ADO.NET, Entity Framework
+
+Application (doesn’t matter what kind of, console app will be quite enough), which goes to the database and performs CRUD operations with the data.
+DAL should be implemented using ADO.NET (1st variant) and Entity Framework (the approach doesn’t matter, but I should advice to use the one you don’t have experience in working with).
+So there should be TWO DALs, and the application should be configured to be able to easy switch between them, so the application would work the same.
+Think about at least 2 layer architecture.
+
+Approximate topic: you have students, faculties, universities. Each student has some score and Subjects which he studies in the current semester.
+Get all the students from selected university.
+Get the average score for each student and find the best student in the group.
+Update student’s subject list.
+Delete some student if he was removed from university.
+Etc.

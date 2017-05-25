@@ -1,0 +1,9 @@
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\ReflectionTask\ReflectionTask\bin\Debug\ReflectionTask.exe.config
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\ReflectionTask\ReflectionTask\bin\Debug\ReflectionTask.exe
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\ReflectionTask\ReflectionTask\bin\Debug\ReflectionTask.pdb
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\ReflectionTask\ReflectionTask\obj\Debug\ReflectionTask.csprojResolveAssemblyReference.cache
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\ReflectionTask\ReflectionTask\obj\Debug\ReflectionTask.exe
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\ReflectionTask\ReflectionTask\obj\Debug\ReflectionTask.pdb
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\Dharmendra_Prajapati\ReflectionTask\ReflectionTask\bin\Debug\ReflectionTask.exe.config
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\Dharmendra_Prajapati\ReflectionTask\ReflectionTask\obj\Debug\ReflectionTask.exe
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\Dharmendra_Prajapati\ReflectionTask\ReflectionTask\obj\Debug\ReflectionTask.pdb

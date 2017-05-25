@@ -1,0 +1,9 @@
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\Dharmendra_Prajapati\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\Dharmendra_Prajapati\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\Dharmendra_Prajapati\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\Dharmendra_Prajapati\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\Dharmendra_Prajapati\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\Dharmendra_Prajapati\ExceptionHandling\ExceptionHandling\bin\Debug\SringConverter.dll
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\Dharmendra_Prajapati\ExceptionHandling\ExceptionHandling\bin\Debug\SringConverter.pdb
+D:\MyProject_Repos\C# Training\Mentoring\india_q2_mentoring\Dharmendra_Prajapati\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache
